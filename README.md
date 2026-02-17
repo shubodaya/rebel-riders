@@ -2,6 +2,14 @@
 
 Rebel Riders is a biker community website where riders can discover events, request to join rides, and connect with the crew.
 
+## Live Page
+
+[https://shubodaya.github.io/rebel-riders/](https://shubodaya.github.io/rebel-riders/)
+
+## Homepage Screenshot
+
+![Rebel Riders Homepage](docs/rebel-riders-home.png)
+
 ## Page Overview
 
 - Hero section introducing the Rebel Riders community.
