@@ -8,7 +8,7 @@ Rebel Riders is a biker community website where riders can discover events, requ
 
 ## Homepage Screenshot
 
-![Rebel Riders Homepage](docs/rebel-riders-home.png)
+![Rebel Riders Homepage](ss.png)
 
 ## Page Overview
 
